@@ -64,7 +64,8 @@
 ## 🌐 在线访问
 
 ```
-https://babatuobao-bot.github.io
+https://babatuobao-bot.github.io  五运六气
+https://babatuobao-bot.github.io/shanghan.html 伤寒论
 ```
 ***
 
